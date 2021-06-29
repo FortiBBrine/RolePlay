@@ -1,0 +1,18 @@
+name: RolePlay
+main: Classes.main.Core
+version: 2.0
+commands:
+  me:
+    usage: /me <text>
+  do:
+    usage: /do <text>
+  try:
+    usage: /try <text>
+  b:
+    usage: /b <text>
+  sethp:
+    usage: /sethp <nickname> <count>
+  changename:
+    usage: /changename <name> <sename>
+  admins:
+    usage: /admins
